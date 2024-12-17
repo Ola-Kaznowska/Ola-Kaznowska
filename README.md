@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 - # 📈1 semester Cyber Security and Ethical Hacking course: https://www.giganciprogramowania.edu.pl/kursy/15-hacking-i-cyberbezpieczenstwo-czesc-1
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ola-Kaznowska&label=Profile%20views&color=3cb371" alt="Ola-Kaznowska" /> </p>
 -->
+
+- Technology:
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;">
