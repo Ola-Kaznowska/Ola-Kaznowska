@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 -->
 
 - **Technology**:
-  <p>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Python" width="50" height="50" style="filter: invert(100%); margin-right: 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" alt="JavaScript" width="50" height="50" style="filter: invert(100%); margin-right: 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" alt="HTML5" width="50" height="50" style="filter: invert(100%); margin-right: 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" alt="CSS3" width="50" height="50" style="filter: invert(100%); margin-right: 10px;">
+   <p>
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="50" height="50" style="margin-right: 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/csharp.svg" alt="C#" width="50" height="50" style="filter: invert(100%); margin-right: 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bootstrap.svg" alt="Bootstrap" width="50" height="50" style="filter: invert(100%); margin-right: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Python-logo-notext.svg" alt="Python" width="50" height="50" style="margin-right: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50" height="50" style="margin-right: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML5" width="50" height="50" style="margin-right: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3" width="50" height="50" style="margin-right: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="50" height="50" style="margin-right: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="50" height="50" style="margin-right: 10px;">
   </p>
 
 
@@ -34,10 +34,5 @@ Here are some ideas to get you started:
 
 
 
- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" width="50" height="50">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" width="50" height="50">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" width="50" height="50">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" width="50" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="50" height="50">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/csharp.svg" width="50" height="50">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bootstrap.svg" width="50" height="50">
+
+
