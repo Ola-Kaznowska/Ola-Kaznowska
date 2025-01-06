@@ -31,19 +31,23 @@ Here are some ideas to get you started:
 
 
 
-### My GitHub Stats
+# GitHub Statistics - Ola Kaznowska
 
-![Ola's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ola-Kaznowska&show_icons=true&count_private=true&hide_title=true)
+### Python Developer Stats
 
-### Activity Overview
-- **Latest Commit**: ![Last Commit](https://github-readme-stats.vercel.app/api/last-commit?username=Ola-Kaznowska)
+![Ola's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ola-Kaznowska&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-### Lines of Code & Commits
-- **Lines of Code Written**: ![Lines of Code](https://github-readme-stats.vercel.app/api/top-langs/?username=Ola-Kaznowska&langs_count=10&layout=compact)
-- **Total Commits**: ![Total Commits](https://img.shields.io/github/commits-since/Ola-Kaznowska/Ola-Kaznowska/latest)
+### Total Commits & Contributions
+
+- **Total Commits**: ![Total Commits](https://img.shields.io/github/commits-since/Ola-Kaznowska/Ola-Kaznowska/latest?color=yellow)
+- **Total Repositories**: ![Total Repos](https://img.shields.io/github/repo-size/Ola-Kaznowska/Ola-Kaznowska?style=flat)
+  
+### Languages Used & Activity
+- **Top Languages**: ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ola-Kaznowska&langs_count=5&layout=compact)
 
 ### My Specialization: Python
 ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+
 
 
 
