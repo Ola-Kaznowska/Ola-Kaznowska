@@ -32,11 +32,37 @@ Here are some ideas to get you started:
 
 
 # GitHub Statistics - Ola Kaznowska
+### Lines of Code & Commits
+- **Lines of Code Written**: ![Lines of Code](https://github-readme-stats.vercel.app/api/languages/top?username=Ola-Kaznowska&count_private=true&langs_count=1)
+- **Total Commits**: [Link to Commits](https://github.com/Ola-Kaznowska?tab=commits)
 
-Here are my GitHub stats and top languages:
+### My Specialization: Python
+<div class="python-logo">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo">
+</div>
 
-![Ola's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ola-Kaznowska&show_icons=true&count_private=true&hide=prs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ola-Kaznowska&langs_count=10&layout=compact)
+<style>
+  .python-logo img {
+    width: 100px;
+    animation: drawAndGlow 3s ease-in-out infinite;
+  }
+
+  @keyframes drawAndGlow {
+    0% {
+      filter: brightness(1) drop-shadow(0 0 5px #3776AB);
+      transform: scale(0.7);
+    }
+    50% {
+      filter: brightness(1.5) drop-shadow(0 0 25px #3776AB);
+      transform: scale(1.2);
+    }
+    100% {
+      filter: brightness(1) drop-shadow(0 0 5px #3776AB);
+      transform: scale(1);
+    }
+  }
+</style>
+
 
 
 
