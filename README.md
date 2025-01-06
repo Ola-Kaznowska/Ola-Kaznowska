@@ -50,6 +50,46 @@ Here are some ideas to get you started:
 
 
 
+# GitHub Statistics - Ola Kaznowska
+
+### Python Developer Stats
+
+![Ola's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ola-Kaznowska&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+### Total Commits & Contributions
+
+- **Total Commits**: ![Total Commits](https://img.shields.io/github/commits-since/Ola-Kaznowska/Ola-Kaznowska/latest?color=yellow)
+- **Total Repositories**: ![Total Repos](https://img.shields.io/github/repo-size/Ola-Kaznowska/Ola-Kaznowska?style=flat)
+
+### Languages Used & Activity
+
+- **Top Languages**: ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ola-Kaznowska&langs_count=5&layout=compact)
+
+### My Specialization: Python
+
+<div class="python-logo">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="100" style="animation: glow 1.5s ease-in-out infinite;">
+</div>
+
+<style>
+  .python-logo img {
+    width: 100px;
+    animation: glow 1.5s ease-in-out infinite;
+  }
+
+  @keyframes glow {
+    0% {
+      filter: brightness(1) drop-shadow(0 0 5px #3776AB);
+    }
+    50% {
+      filter: brightness(1.5) drop-shadow(0 0 25px #3776AB);
+    }
+    100% {
+      filter: brightness(1) drop-shadow(0 0 5px #3776AB);
+    }
+  }
+</style>
+
 
 
 
