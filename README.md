@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ### Languages Used & Activity
 
-- **Top Languages**: ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ola-Kaznowska&langs_count=5&layout=compact)
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ola-Kaznowska&langs_count=5&layout=compact)
 
 ### My Specialization: Python
 
