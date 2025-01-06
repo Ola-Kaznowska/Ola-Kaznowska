@@ -41,12 +41,16 @@ Here are some ideas to get you started:
 
 - **Total Commits**: ![Total Commits](https://img.shields.io/github/commits-since/Ola-Kaznowska/Ola-Kaznowska/latest?color=yellow)
 - **Total Repositories**: ![Total Repos](https://img.shields.io/github/repo-size/Ola-Kaznowska/Ola-Kaznowska?style=flat)
-  
+
 ### Languages Used & Activity
+
 - **Top Languages**: ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ola-Kaznowska&langs_count=5&layout=compact)
 
 ### My Specialization: Python
-![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+
+<div class="python-logo">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="100" style="animation: glow 1.5s ease-in-out infinite;">
+</div>
 
 
 
