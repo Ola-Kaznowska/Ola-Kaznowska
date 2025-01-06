@@ -35,11 +35,16 @@ Here are some ideas to get you started:
 
 ![Ola's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ola-Kaznowska&show_icons=true&count_private=true&hide_title=true)
 
-- **Total Commits**: ![Total Commits](https://img.shields.io/github/commits-since/Ola-Kaznowska/Ola-Kaznowska/1/latest?color=yellow)
-- **Lines of Code Written**: ![Lines of Code](https://github-readme-stats.vercel.app/api/languages/top?username=Ola-Kaznowska&langs_count=1&count_private=true)
+### Activity Overview
+- **Latest Commit**: ![Last Commit](https://github-readme-stats.vercel.app/api/last-commit?username=Ola-Kaznowska)
+
+### Lines of Code & Commits
+- **Lines of Code Written**: ![Lines of Code](https://github-readme-stats.vercel.app/api/top-langs/?username=Ola-Kaznowska&langs_count=10&layout=compact)
+- **Total Commits**: ![Total Commits](https://img.shields.io/github/commits-since/Ola-Kaznowska/Ola-Kaznowska/latest)
 
 ### My Specialization: Python
 ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+
 
 
 
