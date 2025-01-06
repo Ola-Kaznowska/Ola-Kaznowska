@@ -37,10 +37,6 @@ Here are some ideas to get you started:
 
 ![Ola's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ola-Kaznowska&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-### Total Commits & Contributions
-
-- **Total Commits**: ![Total Commits](https://img.shields.io/github/commits-since/Ola-Kaznowska/Ola-Kaznowska/latest?color=yellow)
-- **Total Repositories**: ![Total Repos](https://img.shields.io/github/repo-size/Ola-Kaznowska/Ola-Kaznowska?style=flat)
 
 ### Languages Used & Activity
 
