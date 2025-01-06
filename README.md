@@ -31,6 +31,14 @@ Here are some ideas to get you started:
 
 
 
+# GitHub Statistics - Ola Kaznowska
+
+Here are my GitHub stats and top languages:
+
+![Ola's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ola-Kaznowska&show_icons=true&count_private=true&hide=prs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ola-Kaznowska&langs_count=10&layout=compact)
+
+
 
 
 
